@@ -1,4 +1,4 @@
-//Diego Peña Benitez 2AV6
+//Diego PeÃ±a Benitez 2AV6
 
 #include <iostream>
 
@@ -25,6 +25,6 @@ void Max(int a, int b){
         cout << b << " es mayor que " << a << endl;
     }
     else{
-        cout << "Eror" << endl;
+        cout << "Error" << endl;
     }
 }
